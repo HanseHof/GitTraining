@@ -2,4 +2,6 @@ git add dateiname → dateiname wird jetzt getrackt
 git reset dateiname → dateiname wird nicht mehr getrackt
 git commit -m "text" → getrackte Dateien werden jetzt fixiert und sind in der Versionierung
 
+git merge Ausgangs-Branch Ziel-Branch → Branches zusammenführen
+
 
