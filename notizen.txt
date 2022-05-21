@@ -1,0 +1,3 @@
+git add dateiname → dateiname wird jetzt getrackt
+git reset dateiname → dateiname wird nicht mehr getrackt
+
