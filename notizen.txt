@@ -2,6 +2,8 @@ git add dateiname → dateiname wird jetzt getrackt
 git reset dateiname → dateiname wird nicht mehr getrackt
 git commit -m "text" → getrackte Dateien werden jetzt fixiert und sind in der Versionierung
 
-git merge Ausgangs-Branch Ziel-Branch → Branches zusammenführen
+Merge:
+- wir befinden uns im Ziel-Branch, hier "test"
+- git merge test master; → master wird in "test" überführt
 
 
